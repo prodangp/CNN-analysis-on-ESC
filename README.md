@@ -14,10 +14,11 @@ To run the code in this project, use Google Colab or you will need to have the f
     Python (version 3.6 or later)
     NumPy
     TensorFlow (version 2.0 or later)
+    librosa
 
 You can install these dependencies using pip:
 
-pip install numpy tensorflow
+pip install numpy tensorflow librosa
 
 # Usage
 
@@ -26,7 +27,7 @@ To run the models, you can use the CNN class and specify the number of layers or
 
 # Results
 
-Our experiments show that the use of residual layers and CRNNs can improve the performance of CNN architectures for ESC. A quantiative analysis can be found in the report.
+Our experiments show that the use of residual layers and CRNNs can improve the performance of CNN architectures for ESC. A quantitative analysis can be found in the report.
 
 
 # License
