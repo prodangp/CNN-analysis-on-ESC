@@ -1,7 +1,8 @@
 # Exploring the Depths of Sound: An Analysis of CNNs for Environmental Sound Classification
 
 This project explores different convolutional neural network (CNN) architectures for environmental sound classification (ESC). The goal of ESC is to identify and categorize sounds in various surroundings, and CNNs have emerged as a powerful tool for this task due to their ability to learn and extract features from raw audio data.
-Introduction
+
+# Introduction
 
 The field of ESC is becoming increasingly important with the rise of audio-based technologies such as smart speakers, virtual assistants, and surveillance systems. The dynamic and unstructured nature of acoustic environments poses a significant practical challenge for designing suitable features for ESC. Many current ESC methods design features based on prior knowledge of acoustic environments and then train a classifier using these features to determine the category probability of each environmental sound signal.
 
